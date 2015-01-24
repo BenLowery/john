@@ -1,0 +1,13 @@
+{
+    "autoload": {
+        "psr-4": {
+            "app\\": "vendor/BenLowery/app/"
+        }
+    },
+     "require": {
+		"php": ">=5.4",
+        "symfony/console": "2.6.*",
+		"symfony/filesystem": "2.6.0",
+		"filp/whoops": "1.1.*"
+    }
+}
