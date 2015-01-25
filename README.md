@@ -40,3 +40,8 @@ Because this is a relatively small project i've started at 0.9 to allow a short 
 
 ### Contributing
 I'm currently open to any changes, big or small. If you want to fix a bug, create an issue before you make a pull request.
+
+### Todo
+* custom README generator, with yeoman style questioning
+* inclusion of whoops, a error handler
+* directory structure generator
