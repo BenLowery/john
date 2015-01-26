@@ -1,4 +1,4 @@
-# John.
+# John
 
 ## What is John?
 John is a github repo dependency generator for normal people. It aims to ease the creation of Github projects and getting a head start. It's simple, fast and flexible.
@@ -36,7 +36,7 @@ The .gitignore files are copied form [this](https://github.com/github/gitignore)
 ## The rest
 
 ### Versioning
-Because this is a relatively small project i've started at 0.9 to allow a short beta period. Apart form this, i'm following SemVar.
+Because this is a relatively small project i've started at 0.9 to allow a short beta period. Apart form this, i'm following SemVer.
 
 ### Contributing
 I'm currently open to any changes, big or small. If you want to fix a bug, create an issue before you make a pull request.
